@@ -18,23 +18,4 @@ public class WebElementUtlis {
 
 	}
 
-	public void dropDown(String a, String B) {
-
-	}
-
-	public void dd() {
-
-	}
-
-	public void demo()
-
-	{
-
-		String name="Ravi";
-		int i=14;
-		String t="ff";
-		
-		
-	}
-
 }
