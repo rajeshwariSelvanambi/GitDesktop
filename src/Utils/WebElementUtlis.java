@@ -1,44 +1,38 @@
 package Utils;
 
 public class WebElementUtlis {
-	
-	//WebElement Pages....
-	//WebElement Pages....
-	
-	
-	public void doClick()
-	{
-		//method to click element 
-	}
-	
-	public void sendKeys()
-	{
-		//method to sendkeys element 
-	}
-	
-	public void selectElement()
-	{
-		//method to selectElement element 
-		
+
+	// WebElement Pages....
+	// WebElement Pages....
+
+	public void doClick() {
+		// method to click element
 	}
 
-	public void dropDown(String a, String B)
-	{
-		
+	public void sendKeys() {
+		// method to sendkeys element
 	}
-	
-	public void dd()
-	{
-		
+
+	public void selectElement() {
+		// method to selectElement element
+
+	}
+
+	public void dropDown(String a, String B) {
+
+	}
+
+	public void dd() {
+
 	}
 
 	public void demo()
 
 	{
 
-		String name="Nelluri";
-		int i=1400;
+		String name="Ravi";
+		int i=14;
 		
 	}
-	
+
 }
