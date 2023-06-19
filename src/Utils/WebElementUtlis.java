@@ -31,5 +31,14 @@ public class WebElementUtlis {
 	{
 		
 	}
+
+	public void demo()
+
+	{
+
+		String name="Nelluri";
+		int i=1400;
+		
+	}
 	
 }
